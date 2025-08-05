@@ -1,4 +1,4 @@
-console.log("Main.js working")
+console.log("Main.js working");
 
 const populate = async (value, currency) => {
     let myStr = ""
